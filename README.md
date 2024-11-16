@@ -1,8 +1,8 @@
 # tugas_kelompok_ganjil
 
 Assalamu'alaikum Pak
-Tugas Kelompok gajil Pemograman Berorientasi Object (PBO)
-kelompk ganji
+Tugas Kelompok genap Pemograman Berorientasi Object (PBO)
+kelompk genap
 
 anggota :
 
