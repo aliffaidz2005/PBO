@@ -2,8 +2,7 @@
 
 Assalamu'alaikum Pak
 Tugas Kelompok genap Pemograman Berorientasi Object (PBO)
-kelompk genap
-
+kelompk ganjil
 anggota :
 
 1. Alif Faidz
@@ -12,3 +11,4 @@ anggota :
 4. Muh Syahnul Ilham
 5. Fathir Al Ghifary Badallah
 6. Adit Prima Anwar
+7. Rathi Natalia
